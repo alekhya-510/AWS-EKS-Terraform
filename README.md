@@ -10,4 +10,6 @@ Prerequisites:
 
 Once we have all these requirements , will start writing terraform files
 
+/var/folders/1k/g_j6c8rn6yzf7929lb32hvnc0000gn/T/TemporaryItems/NSIRD_screencaptureui_Uiyo1N/Screenshot 2026-01-30 at 2.47.41 pm.png
+
 
