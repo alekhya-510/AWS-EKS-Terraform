@@ -10,3 +10,8 @@ Prerequisites:
 
 Once we have all these requirements , will start writing terraform files
 
+<<<<<<< HEAD
+=======
+
+<img width="861" height="249" alt="Screenshot 2026-01-31 at 6 52 24 pm" src="https://github.com/user-attachments/assets/a1222b58-9e96-4de0-8216-a96b02299b65" />
+>>>>>>> origin
