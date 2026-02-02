@@ -22,3 +22,7 @@ We need to write the terraform file for vpc,security group , eks clusters , vari
 Once everything is done we are redy to initiate the terraform command as below : 
 
 terraform init
+
+
+
+<img width="1277" height="947" alt="Screenshot 2026-02-02 at 2 20 23 pm" src="https://github.com/user-attachments/assets/a7753f45-5696-4017-b7f0-45fdaeb79d4d" />
