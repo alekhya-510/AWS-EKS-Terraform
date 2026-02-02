@@ -10,4 +10,3 @@ Prerequisites:
 
 Once we have all these requirements , will start writing terraform files
 
-
