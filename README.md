@@ -12,7 +12,8 @@ Once we have all these requirements , will start writing terraform files
 
 
 <img width="861" height="249" alt="Screenshot 2026-01-31 at 6 52 24 pm" src="https://github.com/user-attachments/assets/a1222b58-9e96-4de0-8216-a96b02299b65" />
->>>>>>> origin
+
+
 
 
 We need to write the terraform file for vpc,security group , eks clusters , variables and versions required to provision the cluster.
